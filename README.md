@@ -1,4 +1,4 @@
-# Hi there, I'm Leonardo Leal Linhares Dias 👋
+# Hi there, I'm Leonardo 👋
 
 I am a **Computer Science undergraduate at INF-UFRGS** and a **FAPERGS PDTI Research Scholar**. My current research focuses on **Predictive Modeling in Critical Care**, specifically applying Machine Learning to forecast functionality and return to work after ICU discharge. I have a strong foundation in extracting value from complex datasets, applying predictive modeling, optimization algorithms, and rigorous statistical validation to solve high-impact problems.
 
