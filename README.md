@@ -28,3 +28,5 @@ I am a **Computer Science undergraduate at INF-UFRGS** and a **FAPERGS PDTI Rese
   <a href="https://www.linkedin.com/in/leonardo-lldias/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:leonardo.dias@inf.ufrgs.br" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
+
+*Feel free to reach out directly at* `leonardo.dias@inf.ufrgs.br`
