@@ -1,4 +1,4 @@
-# Hi there, I'm Leonardo 👋
+# Hi there, I'm Leonardo👋
 
 I am a **Computer Science undergraduate at INF-UFRGS** and a **FAPERGS PDTI Research Scholar**. My current research focuses on **Predictive Modeling in Critical Care**, specifically applying Machine Learning to forecast functionality and return to work after ICU discharge. I have a strong foundation in extracting value from complex datasets, applying predictive modeling, optimization algorithms, and rigorous statistical validation to solve high-impact problems.
 
@@ -6,10 +6,10 @@ I am a **Computer Science undergraduate at INF-UFRGS** and a **FAPERGS PDTI Rese
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/LightGBM-ffa500?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
 </p>
 
